@@ -1,0 +1,1226 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Большая карта информатики" id="0">
+    <mxGraphModel dx="1768" dy="2140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1000" edge="1" parent="1" source="100" style="endArrow=classic;" target="200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1001" edge="1" parent="1" source="200" style="endArrow=classic;" target="201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1002" edge="1" parent="1" source="200" style="endArrow=classic;" target="202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1003" edge="1" parent="1" source="200" style="endArrow=classic;" target="203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1004" edge="1" parent="1" source="200" style="endArrow=classic;" target="204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1005" edge="1" parent="1" source="200" style="endArrow=classic;" target="205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="206" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="340" as="geometry" />
+        </mxCell>
+        <mxCell id="1006" edge="1" parent="1" source="200" style="endArrow=classic;" target="206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1007" edge="1" parent="1" source="206" style="endArrow=classic;" target="207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1008" edge="1" parent="1" source="206" style="endArrow=classic;" target="208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1009" edge="1" parent="1" source="206" style="endArrow=classic;" target="209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="210" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" value="Механические устройства" vertex="1">
+          <mxGeometry height="60" width="260" x="640" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="1010" edge="1" parent="1" source="100" style="endArrow=classic;" target="210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1011" edge="1" parent="1" source="210" style="endArrow=classic;" target="211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1012" edge="1" parent="1" source="210" style="endArrow=classic;" target="212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1013" edge="1" parent="1" source="210" style="endArrow=classic;" target="213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1014" edge="1" parent="1" source="210" style="endArrow=classic;" target="214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1015" edge="1" parent="1" source="210" style="endArrow=classic;" target="215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="216" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="940" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1016" edge="1" parent="1" source="210" style="endArrow=classic;" target="216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1017" edge="1" parent="1" source="216" style="endArrow=classic;" target="217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1018" edge="1" parent="1" source="216" style="endArrow=classic;" target="218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1019" edge="1" parent="1" source="216" style="endArrow=classic;" target="219">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="220" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" value="Теория информатики" vertex="1">
+          <mxGeometry height="60" width="260" x="1240" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="1020" edge="1" parent="1" source="100" style="endArrow=classic;" target="220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1021" edge="1" parent="1" source="220" style="endArrow=classic;" target="221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1022" edge="1" parent="1" source="220" style="endArrow=classic;" target="222">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1023" edge="1" parent="1" source="220" style="endArrow=classic;" target="223">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1024" edge="1" parent="1" source="220" style="endArrow=classic;" target="224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1025" edge="1" parent="1" source="222" style="endArrow=classic;" target="225">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="226" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="1540" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1026" edge="1" parent="1" source="220" style="endArrow=classic;" target="226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1027" edge="1" parent="1" source="226" style="endArrow=classic;" target="227">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1028" edge="1" parent="1" source="226" style="endArrow=classic;" target="228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1029" edge="1" parent="1" source="226" style="endArrow=classic;" target="229">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1030" edge="1" parent="1" source="100" style="endArrow=classic;" target="230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1031" edge="1" parent="1" source="230" style="endArrow=classic;" target="231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1032" edge="1" parent="1" source="230" style="endArrow=classic;" target="232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1033" edge="1" parent="1" source="230" style="endArrow=classic;" target="233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1034" edge="1" parent="1" source="230" style="endArrow=classic;" target="234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1035" edge="1" parent="1" source="230" style="endArrow=classic;" target="235">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1036" edge="1" parent="1" source="230" style="endArrow=classic;" target="236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1037" edge="1" parent="1" source="236" style="endArrow=classic;" target="237">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1038" edge="1" parent="1" source="236" style="endArrow=classic;" target="238">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1039" edge="1" parent="1" source="236" style="endArrow=classic;" target="239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="240" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" value="2 поколение ЭВМ" vertex="1">
+          <mxGeometry height="60" width="260" x="40" y="337.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1040" edge="1" parent="1" source="100" style="endArrow=classic;" target="240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1041" edge="1" parent="1" source="240" style="endArrow=classic;" target="241">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1042" edge="1" parent="1" source="240" style="endArrow=classic;" target="242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1043" edge="1" parent="1" source="240" style="endArrow=classic;" target="243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1044" edge="1" parent="1" source="240" style="endArrow=classic;" target="244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1045" edge="1" parent="1" source="240" style="endArrow=classic;" target="245">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="246" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="340" y="377.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1046" edge="1" parent="1" source="240" style="endArrow=classic;" target="246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1047" edge="1" parent="1" source="246" style="endArrow=classic;" target="247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="248" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="370" y="547.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1048" edge="1" parent="1" source="246" style="endArrow=classic;" target="248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="249" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="370" y="437.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1049" edge="1" parent="1" source="246" style="endArrow=classic;" target="249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="250" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="3 поколение ЭВМ" vertex="1">
+          <mxGeometry height="60" width="260" x="630" y="337.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1050" edge="1" parent="1" source="100" style="endArrow=classic;" target="250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1051" edge="1" parent="1" source="250" style="endArrow=classic;" target="251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1052" edge="1" parent="1" source="250" style="endArrow=classic;" target="252">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1053" edge="1" parent="1" source="250" style="endArrow=classic;" target="253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1054" edge="1" parent="1" source="250" style="endArrow=classic;" target="254">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1055" edge="1" parent="1" source="250" style="endArrow=classic;" target="255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="256" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="950" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="1056" edge="1" parent="1" source="250" style="endArrow=classic;" target="256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1057" edge="1" parent="1" source="256" style="endArrow=classic;" target="257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1058" edge="1" parent="1" source="256" style="endArrow=classic;" target="258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1059" edge="1" parent="1" source="256" style="endArrow=classic;" target="259">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1060" edge="1" parent="1" source="100" style="endArrow=classic;" target="260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1061" edge="1" parent="1" source="260" style="endArrow=classic;" target="261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1062" edge="1" parent="1" source="260" style="endArrow=classic;" target="262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1063" edge="1" parent="1" source="260" style="endArrow=classic;" target="263">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1064" edge="1" parent="1" source="260" style="endArrow=classic;" target="264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1065" edge="1" parent="1" source="260" style="endArrow=classic;" target="265">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1066" edge="1" parent="1" source="260" style="endArrow=classic;" target="266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1067" edge="1" parent="1" source="266" style="endArrow=classic;" target="267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1068" edge="1" parent="1" source="266" style="endArrow=classic;" target="268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1069" edge="1" parent="1" source="266" style="endArrow=classic;" target="269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="270" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" value="Языки программирования" vertex="1">
+          <mxGeometry height="60" width="260" x="1840" y="352.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1070" edge="1" parent="1" source="100" style="endArrow=classic;" target="270">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1071" edge="1" parent="1" source="270" style="endArrow=classic;" target="271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1072" edge="1" parent="1" source="270" style="endArrow=classic;" target="272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1073" edge="1" parent="1" source="270" style="endArrow=classic;" target="273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1074" edge="1" parent="1" source="270" style="endArrow=classic;" target="274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1075" edge="1" parent="1" source="270" style="endArrow=classic;" target="275">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="276" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="2210" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="1076" edge="1" parent="1" source="270" style="endArrow=classic;" target="276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1077" edge="1" parent="1" source="276" style="endArrow=classic;" target="277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="278" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="2230" y="497.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1078" edge="1" parent="1" source="276" style="endArrow=classic;" target="278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="279" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="2230" y="372.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1079" edge="1" parent="1" source="276" style="endArrow=classic;" target="279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1080" edge="1" parent="1" source="100" style="endArrow=classic;" target="280">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1081" edge="1" parent="1" source="280" style="endArrow=classic;" target="281">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1082" edge="1" parent="1" source="280" style="endArrow=classic;" target="282">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1083" edge="1" parent="1" source="280" style="endArrow=classic;" target="283">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1084" edge="1" parent="1" source="280" style="endArrow=classic;" target="284">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1085" edge="1" parent="1" source="280" style="endArrow=classic;" target="285">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1086" edge="1" parent="1" source="280" style="endArrow=classic;" target="286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1087" edge="1" parent="1" source="286" style="endArrow=classic;" target="287">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1088" edge="1" parent="1" source="286" style="endArrow=classic;" target="288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1089" edge="1" parent="1" source="286" style="endArrow=classic;" target="289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1090" edge="1" parent="1" source="100" style="endArrow=classic;" target="290">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1091" edge="1" parent="1" source="290" style="endArrow=classic;" target="291">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1092" edge="1" parent="1" source="290" style="endArrow=classic;" target="292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1093" edge="1" parent="1" source="290" style="endArrow=classic;" target="293">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1094" edge="1" parent="1" source="290" style="endArrow=classic;" target="294">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1095" edge="1" parent="1" source="290" style="endArrow=classic;" target="295">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1096" edge="1" parent="1" source="290" style="endArrow=classic;" target="296">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1097" edge="1" parent="1" source="296" style="endArrow=classic;" target="297">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1098" edge="1" parent="1" source="296" style="endArrow=classic;" target="298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1099" edge="1" parent="1" source="296" style="endArrow=classic;" target="299">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="300" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="Интернет" vertex="1">
+          <mxGeometry height="60" width="260" x="1240" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="1100" edge="1" parent="1" source="100" style="endArrow=classic;" target="300">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1101" edge="1" parent="1" source="300" style="endArrow=classic;" target="301">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1102" edge="1" parent="1" source="300" style="endArrow=classic;" target="302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1103" edge="1" parent="1" source="300" style="endArrow=classic;" target="303">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1104" edge="1" parent="1" source="300" style="endArrow=classic;" target="304">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1105" edge="1" parent="1" source="300" style="endArrow=classic;" target="305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="306" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="1540" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="1106" edge="1" parent="1" source="300" style="endArrow=classic;" target="306">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1107" edge="1" parent="1" source="306" style="endArrow=classic;" target="307">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1108" edge="1" parent="1" source="306" style="endArrow=classic;" target="308">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1109" edge="1" parent="1" source="306" style="endArrow=classic;" target="309">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="310" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="Мобильные технологии" vertex="1">
+          <mxGeometry height="60" width="260" x="1840" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="1111" edge="1" parent="1" source="310" style="endArrow=classic;" target="311">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1112" edge="1" parent="1" source="310" style="endArrow=classic;" target="312">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1113" edge="1" parent="1" source="310" style="endArrow=classic;" target="313">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1114" edge="1" parent="1" source="310" style="endArrow=classic;" target="314">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1115" edge="1" parent="1" source="310" style="endArrow=classic;" target="315">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="316" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="2140" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="1116" edge="1" parent="1" source="310" style="endArrow=classic;" target="316">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1117" edge="1" parent="1" source="316" style="endArrow=classic;" target="317">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1118" edge="1" parent="1" source="316" style="endArrow=classic;" target="318">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1119" edge="1" parent="1" source="316" style="endArrow=classic;" target="319">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1120" edge="1" parent="1" source="100" style="endArrow=classic;" target="320">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1121" edge="1" parent="1" source="320" style="endArrow=classic;" target="321">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1122" edge="1" parent="1" source="320" style="endArrow=classic;" target="322">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1123" edge="1" parent="1" source="320" style="endArrow=classic;" target="323">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1124" edge="1" parent="1" source="320" style="endArrow=classic;" target="324">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1125" edge="1" parent="1" source="320" style="endArrow=classic;" target="325">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1126" edge="1" parent="1" source="320" style="endArrow=classic;" target="326">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1127" edge="1" parent="1" source="326" style="endArrow=classic;" target="327">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1128" edge="1" parent="1" source="326" style="endArrow=classic;" target="328">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1129" edge="1" parent="1" source="326" style="endArrow=classic;" target="329">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1130" edge="1" parent="1" source="100" style="endArrow=classic;" target="330">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1131" edge="1" parent="1" source="330" style="endArrow=classic;" target="331">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1132" edge="1" parent="1" source="330" style="endArrow=classic;" target="332">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1133" edge="1" parent="1" source="330" style="endArrow=classic;" target="333">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1134" edge="1" parent="1" source="330" style="endArrow=classic;" target="334">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1135" edge="1" parent="1" source="330" style="endArrow=classic;" target="335">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1136" edge="1" parent="1" source="330" style="endArrow=classic;" target="336">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1137" edge="1" parent="1" source="336" style="endArrow=classic;" target="337">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1138" edge="1" parent="1" source="336" style="endArrow=classic;" target="338">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1139" edge="1" parent="1" source="336" style="endArrow=classic;" target="339">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1140" edge="1" parent="1" source="100" style="endArrow=classic;" target="340">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1141" edge="1" parent="1" source="340" style="endArrow=classic;" target="341">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1142" edge="1" parent="1" source="340" style="endArrow=classic;" target="342">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1143" edge="1" parent="1" source="340" style="endArrow=classic;" target="343">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1144" edge="1" parent="1" source="340" style="endArrow=classic;" target="344">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1145" edge="1" parent="1" source="340" style="endArrow=classic;" target="345">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1146" edge="1" parent="1" source="340" style="endArrow=classic;" target="346">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1147" edge="1" parent="1" source="346" style="endArrow=classic;" target="347">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1148" edge="1" parent="1" source="346" style="endArrow=classic;" target="348">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1149" edge="1" parent="1" source="346" style="endArrow=classic;" target="349">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="350" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;" value="Искусственный интеллект" vertex="1">
+          <mxGeometry height="60" width="260" x="1840" y="1115" as="geometry" />
+        </mxCell>
+        <mxCell id="1150" edge="1" parent="1" source="100" style="endArrow=classic;" target="350">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1151" edge="1" parent="1" source="350" style="endArrow=classic;" target="351">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1152" edge="1" parent="1" source="350" style="endArrow=classic;" target="352">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1153" edge="1" parent="1" source="350" style="endArrow=classic;" target="353">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1154" edge="1" parent="1" source="350" style="endArrow=classic;" target="354">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1155" edge="1" parent="1" source="350" style="endArrow=classic;" target="355">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="356" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="2140" y="1155" as="geometry" />
+        </mxCell>
+        <mxCell id="1156" edge="1" parent="1" source="350" style="endArrow=classic;" target="356">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1157" edge="1" parent="1" source="356" style="endArrow=classic;" target="357">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1158" edge="1" parent="1" source="356" style="endArrow=classic;" target="358">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1159" edge="1" parent="1" source="356" style="endArrow=classic;" target="359">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1160" edge="1" parent="1" source="100" style="endArrow=classic;" target="360">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1161" edge="1" parent="1" source="360" style="endArrow=classic;" target="361">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1162" edge="1" parent="1" source="360" style="endArrow=classic;" target="362">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1163" edge="1" parent="1" source="360" style="endArrow=classic;" target="363">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1164" edge="1" parent="1" source="360" style="endArrow=classic;" target="364">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1165" edge="1" parent="1" source="360" style="endArrow=classic;" target="365">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1166" edge="1" parent="1" source="360" style="endArrow=classic;" target="366">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1167" edge="1" parent="1" source="366" style="endArrow=classic;" target="367">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1168" edge="1" parent="1" source="366" style="endArrow=classic;" target="368">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1169" edge="1" parent="1" source="366" style="endArrow=classic;" target="369">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1170" edge="1" parent="1" source="100" style="endArrow=classic;" target="370">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1171" edge="1" parent="1" source="370" style="endArrow=classic;" target="371">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1172" edge="1" parent="1" source="370" style="endArrow=classic;" target="372">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1173" edge="1" parent="1" source="370" style="endArrow=classic;" target="373">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1174" edge="1" parent="1" source="370" style="endArrow=classic;" target="374">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1175" edge="1" parent="1" source="370" style="endArrow=classic;" target="375">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1176" edge="1" parent="1" source="370" style="endArrow=classic;" target="376">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1177" edge="1" parent="1" source="376" style="endArrow=classic;" target="377">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1178" edge="1" parent="1" source="376" style="endArrow=classic;" target="378">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1179" edge="1" parent="1" source="376" style="endArrow=classic;" target="379">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="380" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" value="Квантовые вычисления" vertex="1">
+          <mxGeometry height="60" width="260" x="1240" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="1180" edge="1" parent="1" source="100" style="endArrow=classic;" target="380">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1181" edge="1" parent="1" source="380" style="endArrow=classic;" target="381">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1182" edge="1" parent="1" source="380" style="endArrow=classic;" target="382">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1183" edge="1" parent="1" source="380" style="endArrow=classic;" target="383">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1184" edge="1" parent="1" source="380" style="endArrow=classic;" target="384">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1185" edge="1" parent="1" source="380" style="endArrow=classic;" target="385">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1186" edge="1" parent="1" source="380" style="endArrow=classic;" target="386">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1187" edge="1" parent="1" source="386" style="endArrow=classic;" target="387">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1188" edge="1" parent="1" source="386" style="endArrow=classic;" target="388">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1189" edge="1" parent="1" source="386" style="endArrow=classic;" target="389">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="390" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" value="Будущее информатики" vertex="1">
+          <mxGeometry height="60" width="260" x="1830" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="1190" edge="1" parent="1" source="100" style="endArrow=classic;" target="390">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1191" edge="1" parent="1" source="390" style="endArrow=classic;" target="391">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1192" edge="1" parent="1" source="390" style="endArrow=classic;" target="392">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1193" edge="1" parent="1" source="390" style="endArrow=classic;" target="393">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1194" edge="1" parent="1" source="390" style="endArrow=classic;" target="394">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="395" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Новые профессии" vertex="1">
+          <mxGeometry height="45" width="220" x="1850" y="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="1195" edge="1" parent="1" source="390" style="endArrow=classic;" target="395">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="396" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="2130" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="1196" edge="1" parent="1" source="390" style="endArrow=classic;" target="396">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1197" edge="1" parent="1" source="396" style="endArrow=classic;" target="397">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1198" edge="1" parent="1" source="396" style="endArrow=classic;" target="398">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1199" edge="1" parent="1" source="396" style="endArrow=classic;" target="399">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="277" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="2230" y="432.5" as="geometry" />
+        </mxCell>
+        <mxCell id="205" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Хранение знаний" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="207" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="370" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="208" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="370" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="200" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="Предпосылки информатики" vertex="1">
+          <mxGeometry height="60" width="260" x="40" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="209" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="370" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="201" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Письменность" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="202" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Системы счисления" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="203" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Математика" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="204" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Логика" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="247" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="370" y="492.5" as="geometry" />
+        </mxCell>
+        <mxCell id="241" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Транзисторы" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="417.5" as="geometry" />
+        </mxCell>
+        <mxCell id="242" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Надёжность" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="472.5" as="geometry" />
+        </mxCell>
+        <mxCell id="243" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Миниатюризация" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="527.5" as="geometry" />
+        </mxCell>
+        <mxCell id="244" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Автоматизация" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="582.5" as="geometry" />
+        </mxCell>
+        <mxCell id="245" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Промышленность" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="637.5" as="geometry" />
+        </mxCell>
+        <mxCell id="211" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Абак" vertex="1">
+          <mxGeometry height="45" width="220" x="660" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="212" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Счёты" vertex="1">
+          <mxGeometry height="45" width="220" x="660" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="213" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Паскалина" vertex="1">
+          <mxGeometry height="45" width="220" x="660" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="214" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Лейбниц" vertex="1">
+          <mxGeometry height="45" width="220" x="660" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="215" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Бэббидж" vertex="1">
+          <mxGeometry height="45" width="220" x="660" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="217" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="970" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="218" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="970" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="219" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="970" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="223" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Алгоритмы" vertex="1">
+          <mxGeometry height="45" width="220" x="1270" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="224" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Кибернетика" vertex="1">
+          <mxGeometry height="45" width="220" x="1270" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="225" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Информация" vertex="1">
+          <mxGeometry height="45" width="220" x="1270" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="251" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Интегральные схемы" vertex="1">
+          <mxGeometry height="45" width="220" x="650" y="417.5" as="geometry" />
+        </mxCell>
+        <mxCell id="252" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="ОС" vertex="1">
+          <mxGeometry height="45" width="220" x="650" y="472.5" as="geometry" />
+        </mxCell>
+        <mxCell id="253" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Терминалы" vertex="1">
+          <mxGeometry height="45" width="220" x="650" y="527.5" as="geometry" />
+        </mxCell>
+        <mxCell id="254" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Многозадачность" vertex="1">
+          <mxGeometry height="45" width="220" x="650" y="582.5" as="geometry" />
+        </mxCell>
+        <mxCell id="255" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Сети" vertex="1">
+          <mxGeometry height="45" width="220" x="650" y="637.5" as="geometry" />
+        </mxCell>
+        <mxCell id="257" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="950" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="258" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="950" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="259" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="950" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="1110" edge="1" parent="1" source="100" style="endArrow=classic;" target="310">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxAZG-uV6AGaLsW078kY-1225" edge="1" parent="1" source="220" style="endArrow=classic;" target="222" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="80" as="sourcePoint" />
+            <mxPoint x="1370" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="222" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Тьюринг" vertex="1">
+          <mxGeometry height="45" width="220" x="1270" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="221" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Булева алгебра" vertex="1">
+          <mxGeometry height="45" width="220" x="1270" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="227" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="228" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="229" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="271" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="FORTRAN" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="417.5" as="geometry" />
+        </mxCell>
+        <mxCell id="272" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="COBOL" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="472.5" as="geometry" />
+        </mxCell>
+        <mxCell id="273" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Pascal" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="527.5" as="geometry" />
+        </mxCell>
+        <mxCell id="274" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="C++" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="582.5" as="geometry" />
+        </mxCell>
+        <mxCell id="275" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Python" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="637.5" as="geometry" />
+        </mxCell>
+        <mxCell id="296" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="920" y="817.5" as="geometry" />
+        </mxCell>
+        <mxCell id="297" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="990" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="298" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="990" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="299" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="990" y="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="301" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="WWW" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="302" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Email" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="303" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Поиск" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="304" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="E-commerce" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="965" as="geometry" />
+        </mxCell>
+        <mxCell id="305" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Обучение" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="307" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="308" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="309" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="280" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" value="Персональные компьютеры" vertex="1">
+          <mxGeometry height="60" width="260" x="40" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="281" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Apple II" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="282" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="IBM PC" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="283" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Windows" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="284" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Linux" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="965" as="geometry" />
+        </mxCell>
+        <mxCell id="285" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Macintosh" vertex="1">
+          <mxGeometry height="45" width="220" x="60" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="286" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="340" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="287" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="370" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="288" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="370" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="289" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="370" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="290" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;" value="Компьютерные сети" vertex="1">
+          <mxGeometry height="60" width="260" x="640" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="291" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="ARPANET" vertex="1">
+          <mxGeometry height="45" width="220" x="660" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="292" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="TCP/IP" vertex="1">
+          <mxGeometry height="45" width="220" x="660" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="293" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Ethernet" vertex="1">
+          <mxGeometry height="45" width="220" x="660" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="294" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="LAN" vertex="1">
+          <mxGeometry height="45" width="220" x="660" y="965" as="geometry" />
+        </mxCell>
+        <mxCell id="295" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="WAN" vertex="1">
+          <mxGeometry height="45" width="220" x="660" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="311" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Смартфоны" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="312" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="3G" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="313" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="4G" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="314" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="5G" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="965" as="geometry" />
+        </mxCell>
+        <mxCell id="315" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Приложения" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="317" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="2170" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="318" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="2170" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="319" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="2170" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="346" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="1540" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="347" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="348" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="349" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="1265" as="geometry" />
+        </mxCell>
+        <mxCell id="351" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Нейросети" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="1195" as="geometry" />
+        </mxCell>
+        <mxCell id="352" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="LLM" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="353" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Зрение" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="1305" as="geometry" />
+        </mxCell>
+        <mxCell id="354" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Речь" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="355" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Автоматизация" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="1415" as="geometry" />
+        </mxCell>
+        <mxCell id="357" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="2170" y="1215" as="geometry" />
+        </mxCell>
+        <mxCell id="358" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="2170" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="359" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="2170" y="1325" as="geometry" />
+        </mxCell>
+        <mxCell id="391" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="AGI" vertex="1">
+          <mxGeometry height="45" width="220" x="1850" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="392" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Нейроинтерфейсы" vertex="1">
+          <mxGeometry height="45" width="220" x="1850" y="1605" as="geometry" />
+        </mxCell>
+        <mxCell id="393" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Роботы" vertex="1">
+          <mxGeometry height="45" width="220" x="1850" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="394" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Цифровые двойники" vertex="1">
+          <mxGeometry height="45" width="220" x="1850" y="1715" as="geometry" />
+        </mxCell>
+        <mxCell id="397" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="2160" y="1625" as="geometry" />
+        </mxCell>
+        <mxCell id="398" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="2160" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="399" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="2160" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="340" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" value="Big Data" vertex="1">
+          <mxGeometry height="60" width="260" x="1240" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="341" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Аналитика" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="342" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Data Science" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="1245" as="geometry" />
+        </mxCell>
+        <mxCell id="343" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="ML" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="344" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Прогнозы" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="1355" as="geometry" />
+        </mxCell>
+        <mxCell id="345" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Персонализация" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="381" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Кубиты" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="382" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Алгоритмы" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="1615" as="geometry" />
+        </mxCell>
+        <mxCell id="383" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Сверхпозиция" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="384" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Криптография" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="1725" as="geometry" />
+        </mxCell>
+        <mxCell id="385" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Исследования" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="1780" as="geometry" />
+        </mxCell>
+        <mxCell id="386" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="1540" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="387" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="388" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="1635" as="geometry" />
+        </mxCell>
+        <mxCell id="389" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="370" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="Интернет вещей" vertex="1">
+          <mxGeometry height="60" width="260" x="650" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="371" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Умный дом" vertex="1">
+          <mxGeometry height="45" width="220" x="670" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="372" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Датчики" vertex="1">
+          <mxGeometry height="45" width="220" x="670" y="1645" as="geometry" />
+        </mxCell>
+        <mxCell id="373" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="IoT" vertex="1">
+          <mxGeometry height="45" width="220" x="670" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="374" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Мониторинг" vertex="1">
+          <mxGeometry height="45" width="220" x="670" y="1755" as="geometry" />
+        </mxCell>
+        <mxCell id="375" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Автоматизация" vertex="1">
+          <mxGeometry height="45" width="220" x="670" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="376" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="950" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="377" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="980" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="378" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="980" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="379" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="980" y="1665" as="geometry" />
+        </mxCell>
+        <mxCell id="330" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" value="Облачные технологии" vertex="1">
+          <mxGeometry height="60" width="260" x="620" y="1135" as="geometry" />
+        </mxCell>
+        <mxCell id="331" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="SaaS" vertex="1">
+          <mxGeometry height="45" width="220" x="640" y="1215" as="geometry" />
+        </mxCell>
+        <mxCell id="332" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="PaaS" vertex="1">
+          <mxGeometry height="45" width="220" x="640" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="333" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="IaaS" vertex="1">
+          <mxGeometry height="45" width="220" x="640" y="1325" as="geometry" />
+        </mxCell>
+        <mxCell id="334" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Хранилища" vertex="1">
+          <mxGeometry height="45" width="220" x="640" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="335" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Удалёнка" vertex="1">
+          <mxGeometry height="45" width="220" x="640" y="1435" as="geometry" />
+        </mxCell>
+        <mxCell id="336" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="920" y="1175" as="geometry" />
+        </mxCell>
+        <mxCell id="337" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="950" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="338" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="950" y="1345" as="geometry" />
+        </mxCell>
+        <mxCell id="339" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="950" y="1235" as="geometry" />
+        </mxCell>
+        <mxCell id="360" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="Кибербезопасность" vertex="1">
+          <mxGeometry height="60" width="260" x="50" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="361" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Шифрование" vertex="1">
+          <mxGeometry height="45" width="220" x="70" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="362" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Антивирусы" vertex="1">
+          <mxGeometry height="45" width="220" x="70" y="1655" as="geometry" />
+        </mxCell>
+        <mxCell id="363" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Защита" vertex="1">
+          <mxGeometry height="45" width="220" x="70" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="364" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Аутентификация" vertex="1">
+          <mxGeometry height="45" width="220" x="70" y="1765" as="geometry" />
+        </mxCell>
+        <mxCell id="365" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Угрозы" vertex="1">
+          <mxGeometry height="45" width="220" x="70" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="366" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="350" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="367" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="380" y="1675" as="geometry" />
+        </mxCell>
+        <mxCell id="368" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="380" y="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="369" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="380" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="320" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" value="Социальные сети" vertex="1">
+          <mxGeometry height="60" width="260" x="50" y="1135" as="geometry" />
+        </mxCell>
+        <mxCell id="321" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Блоги" vertex="1">
+          <mxGeometry height="45" width="220" x="70" y="1215" as="geometry" />
+        </mxCell>
+        <mxCell id="322" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Мессенджеры" vertex="1">
+          <mxGeometry height="45" width="220" x="70" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="323" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Контент" vertex="1">
+          <mxGeometry height="45" width="220" x="70" y="1325" as="geometry" />
+        </mxCell>
+        <mxCell id="324" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Коммуникация" vertex="1">
+          <mxGeometry height="45" width="220" x="70" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="325" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Влияние" vertex="1">
+          <mxGeometry height="45" width="220" x="70" y="1435" as="geometry" />
+        </mxCell>
+        <mxCell id="326" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="350" y="1175" as="geometry" />
+        </mxCell>
+        <mxCell id="327" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="380" y="1235" as="geometry" />
+        </mxCell>
+        <mxCell id="328" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="380" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="329" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="380" y="1345" as="geometry" />
+        </mxCell>
+        <mxCell id="230" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;" value="1 поколение ЭВМ" vertex="1">
+          <mxGeometry height="60" width="260" x="1840" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="236" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="2140" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="237" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="2170" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="238" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="2170" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="239" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="2170" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="231" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="ENIAC" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="232" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="EDVAC" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="233" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="UNIVAC" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="234" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Лампы" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="235" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Расчёты" vertex="1">
+          <mxGeometry height="45" width="220" x="1860" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="260" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="Микропроцессоры" vertex="1">
+          <mxGeometry height="60" width="260" x="1240" y="337.5" as="geometry" />
+        </mxCell>
+        <mxCell id="265" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Массовость" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="637.5" as="geometry" />
+        </mxCell>
+        <mxCell id="261" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Intel 4004" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="417.5" as="geometry" />
+        </mxCell>
+        <mxCell id="262" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Intel 8086" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="472.5" as="geometry" />
+        </mxCell>
+        <mxCell id="263" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="ARM" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="527.5" as="geometry" />
+        </mxCell>
+        <mxCell id="264" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;" value="Чипы" vertex="1">
+          <mxGeometry height="45" width="220" x="1260" y="582.5" as="geometry" />
+        </mxCell>
+        <mxCell id="266" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontStyle=1;" value="Социальные последствия" vertex="1">
+          <mxGeometry height="50" width="220" x="1540" y="377.5" as="geometry" />
+        </mxCell>
+        <mxCell id="267" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Рост производительности" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="437.5" as="geometry" />
+        </mxCell>
+        <mxCell id="268" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Изменение общества" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="492.5" as="geometry" />
+        </mxCell>
+        <mxCell id="269" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Развитие технологий" vertex="1">
+          <mxGeometry height="45" width="220" x="1570" y="547.5" as="geometry" />
+        </mxCell>
+        <mxCell id="100" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1;" value="История развития информатики и её социальные последствия" vertex="1">
+          <mxGeometry height="90" width="420" x="860" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxAZG-uV6AGaLsW078kY-1242" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Интеллект карта на тему&amp;nbsp;&lt;div&gt;&quot;Важный этапы в истории развития информатики и их социальные последствия&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Подготовил студент 1 курса ПОО&amp;nbsp;&lt;/div&gt;&lt;div&gt;Сибель Максим&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="280" x="40" y="-230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
