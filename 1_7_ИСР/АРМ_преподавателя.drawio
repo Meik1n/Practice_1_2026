@@ -1,0 +1,400 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Интеллект-карта" id="0">
+    <mxGraphModel dx="1571" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="АРМ преподавателя информатики" vertex="1">
+          <mxGeometry height="60" width="220" x="500" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Аппаратное обеспечение" vertex="1">
+          <mxGeometry height="50" width="220" x="50" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6" edge="1" parent="1" source="3" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8" edge="1" parent="1" source="3" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" edge="1" parent="1" source="3" target="9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" edge="1" parent="1" source="3" target="11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" edge="1" parent="1" source="3" target="13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16" edge="1" parent="1" source="3" target="15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18" edge="1" parent="1" source="3" target="17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20" edge="1" parent="1" source="3" target="19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="22" edge="1" parent="1" source="3" target="21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="24" edge="1" parent="1" source="3" target="23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26" edge="1" parent="1" source="3" target="25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="28" edge="1" parent="1" source="3" target="27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30" edge="1" parent="1" source="3" target="29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32" edge="1" parent="1" source="3" target="31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34" edge="1" parent="1" source="3" target="33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Программное обеспечение" vertex="1">
+          <mxGeometry height="50" width="220" x="350" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="36" edge="1" parent="1" source="2" target="35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38" edge="1" parent="1" source="35" target="37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40" edge="1" parent="1" source="35" target="39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42" edge="1" parent="1" source="35" target="41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44" edge="1" parent="1" source="35" target="43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46" edge="1" parent="1" source="35" target="45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="48" edge="1" parent="1" source="35" target="47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="50" edge="1" parent="1" source="35" target="49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52" edge="1" parent="1" source="35" target="51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54" edge="1" parent="1" source="35" target="53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="56" edge="1" parent="1" source="35" target="55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58" edge="1" parent="1" source="35" target="57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60" edge="1" parent="1" source="35" target="59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62" edge="1" parent="1" source="35" target="61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64" edge="1" parent="1" source="35" target="63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66" edge="1" parent="1" source="35" target="65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Информационное обеспечение" vertex="1">
+          <mxGeometry height="50" width="220" x="650" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="68" edge="1" parent="1" source="2" target="67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70" edge="1" parent="1" source="67" target="69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72" edge="1" parent="1" source="67" target="71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74" edge="1" parent="1" source="67" target="73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="76" edge="1" parent="1" source="67" target="75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="78" edge="1" parent="1" source="67" target="77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80" edge="1" parent="1" source="67" target="79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82" edge="1" parent="1" source="67" target="81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="84" edge="1" parent="1" source="67" target="83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86" edge="1" parent="1" source="67" target="85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88" edge="1" parent="1" source="67" target="87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90" edge="1" parent="1" source="67" target="89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92" edge="1" parent="1" source="67" target="91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94" edge="1" parent="1" source="67" target="93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96" edge="1" parent="1" source="67" target="95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="98" edge="1" parent="1" source="67" target="97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Оценка рабочего места" vertex="1">
+          <mxGeometry height="50" width="220" x="950" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="100" edge="1" parent="1" source="2" target="99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="102" edge="1" parent="1" source="99" target="101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="104" edge="1" parent="1" source="99" target="103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="106" edge="1" parent="1" source="99" target="105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="108" edge="1" parent="1" source="99" target="107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="110" edge="1" parent="1" source="99" target="109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112" edge="1" parent="1" source="99" target="111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="114" edge="1" parent="1" source="99" target="113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="116" edge="1" parent="1" source="99" target="115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="118" edge="1" parent="1" source="99" target="117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="120" edge="1" parent="1" source="99" target="119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="122" edge="1" parent="1" source="99" target="121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="124" edge="1" parent="1" source="99" target="123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="126" edge="1" parent="1" source="99" target="125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="128" edge="1" parent="1" source="99" target="127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="130" edge="1" parent="1" source="99" target="129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="whiteSpace=wrap;html=1;" value="Компьютер" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="1" style="whiteSpace=wrap;html=1;" value="Ноутбук" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" style="whiteSpace=wrap;html=1;" value="Процессор" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="1" style="whiteSpace=wrap;html=1;" value="ОЗУ" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" style="whiteSpace=wrap;html=1;" value="SSD" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="15" parent="1" style="whiteSpace=wrap;html=1;" value="Видеокарта" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="1" style="whiteSpace=wrap;html=1;" value="Монитор" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="19" parent="1" style="whiteSpace=wrap;html=1;" value="Клавиатура" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="21" parent="1" style="whiteSpace=wrap;html=1;" value="Мышь" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="23" parent="1" style="whiteSpace=wrap;html=1;" value="Веб-камера" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="1" style="whiteSpace=wrap;html=1;" value="Микрофон" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="27" parent="1" style="whiteSpace=wrap;html=1;" value="Колонки" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="29" parent="1" style="whiteSpace=wrap;html=1;" value="Проектор" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="31" parent="1" style="whiteSpace=wrap;html=1;" value="Принтер" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="1" style="whiteSpace=wrap;html=1;" value="МФУ" vertex="1">
+          <mxGeometry height="35" width="180" x="50" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="69" parent="1" style="whiteSpace=wrap;html=1;" value="Учебники" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="71" parent="1" style="whiteSpace=wrap;html=1;" value="Презентации" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="73" parent="1" style="whiteSpace=wrap;html=1;" value="Методички" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="75" parent="1" style="whiteSpace=wrap;html=1;" value="ФГОС" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="77" parent="1" style="whiteSpace=wrap;html=1;" value="Расписание" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="79" parent="1" style="whiteSpace=wrap;html=1;" value="Эл. журнал" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="81" parent="1" style="whiteSpace=wrap;html=1;" value="База студентов" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="83" parent="1" style="whiteSpace=wrap;html=1;" value="Учебный план" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="85" parent="1" style="whiteSpace=wrap;html=1;" value="Тесты" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="87" parent="1" style="whiteSpace=wrap;html=1;" value="Библиотеки" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="89" parent="1" style="whiteSpace=wrap;html=1;" value="Видеоуроки" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="91" parent="1" style="whiteSpace=wrap;html=1;" value="Практикумы" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="93" parent="1" style="whiteSpace=wrap;html=1;" value="Облако" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="95" parent="1" style="whiteSpace=wrap;html=1;" value="Документация" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="97" parent="1" style="whiteSpace=wrap;html=1;" value="Сайт" vertex="1">
+          <mxGeometry height="35" width="180" x="650" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="101" parent="1" style="whiteSpace=wrap;html=1;" value="Эргономика" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="103" parent="1" style="whiteSpace=wrap;html=1;" value="Освещение" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="105" parent="1" style="whiteSpace=wrap;html=1;" value="Интернет" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="107" parent="1" style="whiteSpace=wrap;html=1;" value="Безопасность" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="109" parent="1" style="whiteSpace=wrap;html=1;" value="Резервное копирование" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="111" parent="1" style="whiteSpace=wrap;html=1;" value="Обновления" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="113" parent="1" style="whiteSpace=wrap;html=1;" value="Производительность" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="115" parent="1" style="whiteSpace=wrap;html=1;" value="Надежность" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="117" parent="1" style="whiteSpace=wrap;html=1;" value="Комфорт" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="119" parent="1" style="whiteSpace=wrap;html=1;" value="Автоматизация" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="121" parent="1" style="whiteSpace=wrap;html=1;" value="Плюсы" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="123" parent="1" style="whiteSpace=wrap;html=1;" value="Минусы" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="125" parent="1" style="whiteSpace=wrap;html=1;" value="Рекомендации" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="127" parent="1" style="whiteSpace=wrap;html=1;" value="Эффективность" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="129" parent="1" style="whiteSpace=wrap;html=1;" value="Экономия времени" vertex="1">
+          <mxGeometry height="35" width="180" x="950" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="37" parent="1" style="whiteSpace=wrap;html=1;" value="Windows" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="39" parent="1" style="whiteSpace=wrap;html=1;" value="Linux" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="41" parent="1" style="whiteSpace=wrap;html=1;" value="MS Office" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="43" parent="1" style="whiteSpace=wrap;html=1;" value="LibreOffice" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="45" parent="1" style="whiteSpace=wrap;html=1;" value="VS Code" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="47" parent="1" style="whiteSpace=wrap;html=1;" value="PyCharm" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="49" parent="1" style="whiteSpace=wrap;html=1;" value="Python" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="51" parent="1" style="whiteSpace=wrap;html=1;" value="C++" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="53" parent="1" style="whiteSpace=wrap;html=1;" value="Java" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="55" parent="1" style="whiteSpace=wrap;html=1;" value="Moodle" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="57" parent="1" style="whiteSpace=wrap;html=1;" value="Teams" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="59" parent="1" style="whiteSpace=wrap;html=1;" value="Google Classroom" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="61" parent="1" style="whiteSpace=wrap;html=1;" value="Браузер" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="63" parent="1" style="whiteSpace=wrap;html=1;" value="PDF" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="65" parent="1" style="whiteSpace=wrap;html=1;" value="Антивирус" vertex="1">
+          <mxGeometry height="35" width="180" x="350" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="r0EpEz0PUE309n3MCgu8-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сделал студент&amp;nbsp;&lt;div&gt;1 курса ПОО&lt;/div&gt;&lt;div&gt;Сибель Максим&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="10" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
